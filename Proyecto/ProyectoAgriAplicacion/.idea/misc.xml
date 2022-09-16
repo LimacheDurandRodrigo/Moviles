@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/drawable-v24/ic_shop.xml" value="0.1" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_logout.xml" value="0.1" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_map.xml" value="0.1" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout-w1240dp/activity_ejemplo2.xml" value="0.1" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout-w936dp/activity_ejemplo2.xml" value="0.1" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_add_product.xml" value="0.234375" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_detail.xml" value="0.234375" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_edit.xml" value="0.22" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_edit_product.xml" value="0.234375" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_ejemplo.xml" value="0.25" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_ejemplo2.xml" value="0.11246200607902736" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_login.xml" value="0.36770833333333336" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_maps.xml" value="0.23369565217391305" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_restore_password.xml" value="0.36770833333333336" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/app_bar_ejemplo.xml" value="0.11246200607902736" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/content_detail.xml" value="0.234375" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/content_ejemplo.xml" value="0.11246200607902736" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_dashboard.xml" value="0.36770833333333336" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_first.xml" value="0.371875" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_gallery.xml" value="0.36770833333333336" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_history.xml" value="0.16757246376811594" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_map.xml" value="0.16757246376811594" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_market.xml" value="0.33" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_notifications.xml" value="0.23125" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_profile.xml" value="0.18" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_second.xml" value="0.371875" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_slideshow.xml" value="0.14719202898550723" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/marketlist.xml" value="0.5" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/nav_header_ejemplo.xml" value="0.33" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/menu/activity_main_drawer.xml" value="0.2276923076923077" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20925925925925926" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/menu/ejemplo.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/Windows/Desktop/Proyecto/ProyectoAgriAplicacion/app/src/main/res/layout/activity_add_product.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Windows/Desktop/Proyecto/ProyectoAgriAplicacion/app/src/main/res/layout/activity_detail.xml" value="0.21" />
+        <entry key="..\:/Users/Windows/Desktop/Proyecto/ProyectoAgriAplicacion/app/src/main/res/menu/bottom_nav_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

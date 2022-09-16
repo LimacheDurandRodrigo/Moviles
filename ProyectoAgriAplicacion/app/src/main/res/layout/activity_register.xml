@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegisterActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="16dp"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Crear cuenta"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/nameUser"
+            android:layout_marginTop="10dp"
+
+            android:hint="Nombres"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/surnameUser"
+            android:layout_marginTop="10dp"
+
+            android:hint="Apellidos"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/phoneUser"
+            android:layout_marginTop="10dp"
+
+            android:hint="Telefono"/>
+
+        <androidx.appcompat.widget.AppCompatSpinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/departmentUser"
+            android:layout_marginTop="10dp"
+            android:hint="Departamento"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/emailUser"
+            android:inputType="textEmailAddress"
+            android:layout_marginTop="10dp"
+
+            android:hint="Correo electronico"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/passwordUser"
+            android:inputType="textPassword"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+
+            android:hint="Contraseña"/>
+
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Registrar"
+            android:id="@+id/btnRegister"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginTop="20dp"
+            android:textColor="#fff"/>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

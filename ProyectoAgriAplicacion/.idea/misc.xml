@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Apps/ProyectoAgriAplicacion/app/src/main/res/layout/activity_add_product.xml" value="0.371875" />
+        <entry key="..\:/Apps/ProyectoAgriAplicacion/app/src/main/res/layout/activity_main.xml" value="0.2703125" />
+        <entry key="..\:/Apps/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_market.xml" value="0.371875" />
+        <entry key="..\:/Apps/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_profile.xml" value="0.371875" />
+        <entry key="..\:/Apps/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_second.xml" value="0.2942708333333333" />
+        <entry key="..\:/Apps/ProyectoAgriAplicacion/app/src/main/res/layout/marketlist.xml" value="0.33" />
+        <entry key="..\:/Apps/ProyectoAgriAplicacion/app/src/main/res/layout/popup_filter.xml" value="0.371875" />
+        <entry key="..\:/Apps/ProyectoAgriAplicacion/app/src/main/res/menu/bottom_nav_menu.xml" value="0.26510416666666664" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/drawable-v24/ic_shop.xml" value="0.1" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_logout.xml" value="0.1" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_map.xml" value="0.1" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout-w1240dp/activity_ejemplo2.xml" value="0.1" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout-w936dp/activity_ejemplo2.xml" value="0.1" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_add_product.xml" value="0.234375" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_detail.xml" value="0.234375" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_edit.xml" value="0.22" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_edit_product.xml" value="0.234375" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_ejemplo.xml" value="0.25" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_ejemplo2.xml" value="0.11246200607902736" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_login.xml" value="0.36770833333333336" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_maps.xml" value="0.23369565217391305" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_restore_password.xml" value="0.36770833333333336" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/activity_splash.xml" value="0.3045977011494253" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/app_bar_ejemplo.xml" value="0.11246200607902736" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/content_detail.xml" value="0.234375" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/content_ejemplo.xml" value="0.11246200607902736" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_dashboard.xml" value="0.36770833333333336" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_first.xml" value="0.371875" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_gallery.xml" value="0.36770833333333336" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_history.xml" value="0.16757246376811594" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_map.xml" value="0.16757246376811594" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_maps.xml" value="0.20520833333333333" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_market.xml" value="0.2138728323699422" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_notifications.xml" value="0.23125" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_profile.xml" value="0.18" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_second.xml" value="0.371875" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_slideshow.xml" value="0.14719202898550723" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/marketlist.xml" value="0.33" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/layout/nav_header_ejemplo.xml" value="0.33" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/menu/activity_main_drawer.xml" value="0.2276923076923077" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20925925925925926" />
+        <entry key="..\:/ProyectoAgriAplicacion/app/src/main/res/menu/ejemplo.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable-v24/ic_shop.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_agri_background.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_form.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_logout.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_map.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_password.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_phone.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/round_edges.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/layout/activity_add_product.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/layout/activity_commentary.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/layout/activity_edit.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/layout/activity_edit_product.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/layout/activity_login.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/layout/activity_payment.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/layout/activity_profile.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/layout/activity_register.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Windows/Desktop/ProyectoAgriAplicacion/app/src/main/res/layout/nav_header_ejemplo.xml" value="0.25" />
+        <entry key="..\:/Users/Windows/Desktop/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/activity_detail.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Windows/Desktop/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/activity_login.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/Windows/Desktop/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/Windows/Desktop/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable-v24/ic_shop.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/circle.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_add.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_form.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_history.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_logout.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_map.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_menu.xml" value="0.2895" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_password.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_phone.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/ic_profile.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/round_edges.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/drawable/side_nav_bar.xml" value="0.2235" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/activity_add_product.xml" value="0.371875" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/activity_commentary.xml" value="0.3140625" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/activity_detail.xml" value="0.36615384615384616" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/activity_edit.xml" value="0.24114583333333334" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/activity_edit_product.xml" value="0.25" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/activity_payment.xml" value="0.371875" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/activity_profile.xml" value="0.20885416666666667" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/activity_register.xml" value="0.36770833333333336" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/comentarylist.xml" value="0.32760416666666664" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/content_detail.xml" value="0.3140625" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_first.xml" value="0.24114583333333334" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_history.xml" value="0.371875" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_maps.xml" value="0.371875" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_market.xml" value="0.371875" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/fragment_profile.xml" value="0.371875" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/marketlist.xml" value="0.24114583333333334" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/nav_header_ejemplo.xml" value="0.371875" />
+        <entry key="..\:/proyecto-final-proyecto_agriapp/ProyectoAgriAplicacion/app/src/main/res/layout/popup_filter.xml" value="0.32760416666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

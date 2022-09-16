@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_market">
+
+    <fragment
+        android:id="@+id/navigation_market"
+        android:name="com.example.proyectoagriaplicacion.Fragments.MarketFragment"
+        android:label="Mercado"
+        tools:layout="@layout/fragment_market"
+        />
+    <fragment
+        android:id="@+id/navigation_map"
+        android:name="com.example.proyectoagriaplicacion.Fragments.MapsFragment"
+        android:label="Mapa"
+        tools:layout="@layout/fragment_maps"
+
+        />
+    <fragment
+        android:id="@+id/navigation_history"
+        android:name="com.example.proyectoagriaplicacion.Fragments.HistoryFragment"
+        android:label="Historial"
+        tools:layout="@layout/fragment_history"
+        />
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.example.proyectoagriaplicacion.Fragments.ProfileFragment"
+        android:label="Perfil"
+        tools:layout="@layout/fragment_profile"
+        />
+
+
+</navigation>

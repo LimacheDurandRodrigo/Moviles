@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gsingup</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="txt_Gsingip">SingIn</string>
+    <string name="txt_ID">Id</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txt_email">Email</string>
+    <string name="btn_cerrar">CERRAR SESION</string>
+</resources>
